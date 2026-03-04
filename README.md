@@ -33,27 +33,6 @@ The objective is to identify which customer segments generate the highest revenu
 
 ---
 
-## Repository Structure
-
-### SQL Analysis
-
-The SQL analysis was conducted in PostgreSQL. Queries focus on revenue aggregation, product category comparison and customer segmentation.
-
-Example analytical questions include:
-
-Total spend per country  
-(SQL query placeholder)
-
-Total spend per product category per country  
-(SQL query placeholder)
-
-Most popular product category per country  
-(SQL query placeholder)
-
-The final queries will be available as individual SQL scripts in the SQL_analysis folder.
-
----
-
 ## Tools
 
 Excel  
