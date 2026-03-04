@@ -35,7 +35,7 @@ The objective is to identify which customer segments generate the highest revenu
 
 ## Repository Structure
 
-# SQL Analysis
+### SQL Analysis
 
 The SQL analysis was conducted in PostgreSQL. Queries focus on revenue aggregation, product category comparison and customer segmentation.
 
