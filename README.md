@@ -35,9 +35,7 @@ The objective is to identify which customer segments generate the highest revenu
 
 ## Repository Structure
 
----
-
-## SQL Analysis
+# SQL Analysis
 
 The SQL analysis was conducted in PostgreSQL. Queries focus on revenue aggregation, product category comparison and customer segmentation.
 
@@ -53,44 +51,6 @@ Most popular product category per country
 (SQL query placeholder)
 
 The final queries will be available as individual SQL scripts in the SQL_analysis folder.
-
----
-
-## Analytical Questions
-
-### Total spend per country
-
-This query aggregates total spending across all product categories to identify the largest revenue generating markets.
-
-SQL file  
-SQL_analysis/total_spend_by_country.sql
-
-Result  
-(see Technical_report PDF)
-
----
-
-### Total spend per product category per country
-
-This query breaks down spending into product categories to identify revenue composition across markets.
-
-SQL file  
-SQL_analysis/product_spend_by_country.sql
-
-Result  
-(see Technical_report PDF)
-
----
-
-### Most popular product category per country
-
-This query identifies the dominant product category in each country based on total revenue.
-
-SQL file  
-SQL_analysis/most_popular_product_by_country.sql
-
-Result  
-(see Technical_report PDF)
 
 ---
 
