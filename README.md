@@ -1,15 +1,36 @@
-# LSE_DA101_Data-Analytics-for-Business
-LSE Data Analytics Career Accelerator assignment analysing customer revenue drivers and marketing effectiveness using Excel, PostgreSQL and Tableau. Built executive dashboards to identify high value segments, channel efficiency and product concentration risk to support data driven allocation decisions.
+# LSE DA101 Data Analytics for Business
 
-Customer demographics dashboard:
+Data analytics project analysing customer revenue drivers and marketing effectiveness using SQL, Excel and Tableau.
 
-https://public.tableau.com/views/JimenezLopez_Diego_DA301_2Market_Dashboard_v2025_1/Customerdemographics?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+The analysis explores customer demographics, product category spending and advertising channel performance in order to identify high value customer segments and improve marketing allocation decisions.
 
-Most sold products dashboard:
+---
 
-https://public.tableau.com/views/12_17720296793230/Mostsoldproducts?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+## Quick Access
 
-Most effective advertising channels dashboard
+### Tableau dashboards
 
-https://public.tableau.com/views/123_17720302121030/Mosteffectiveadvertisingchannels?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+Because Tableau Public dashboards are composed of separate sheets, each dashboard view is linked individually.
 
+Customer demographics dashboard  
+https://public.tableau.com/views/JimenezLopez_Diego_DA301_2Market_Dashboard_v2025_1/Customerdemographics
+
+Product performance dashboard  
+https://public.tableau.com/views/12_17720296793230/Mostsoldproducts
+
+Marketing channel effectiveness dashboard  
+https://public.tableau.com/views/123_17720302121030/Mosteffectiveadvertisingchannels
+
+---
+
+## Business Context
+
+This project analyses a simulated retail marketing dataset representing a consumer goods company.
+
+The dataset contains customer demographics, product category spending and advertising exposure across several marketing channels.
+
+The objective is to identify which customer segments generate the highest revenue, which product categories dominate sales and which marketing channels produce the strongest conversions.
+
+---
+
+## Repository Structure
